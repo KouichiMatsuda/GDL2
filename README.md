@@ -7,6 +7,6 @@ https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition
 
 ここのあるプログラムは、Generative Deep Learning, 2nd Edition (O’Reilly) のサンプルプログラムをColabで動くようにしたものです。動作検証用のものなので、実際にはWindowsやMacに環境を構築されて実行するようにされてください。
 
-The program shown here is a sample program from Generative Deep Learning, 2nd Edition (O'Reilly), enabled to run on Colab. Please note that this is for testing purposes only, and you should actually run the program in a Windows or Mac environment.
+The programs shown here are modified sample programs from Generative Deep Learning, 2nd Edition (O'Reilly), enabled to run on Colab. Please note that these are for testing purposes only, and you should actually run the program in a Windows or Mac environment.
 
 
