@@ -1,2 +1,3 @@
 # GDL2
-Generative Deep Learning Sample Program for Colab
+Generative Deep Learning Sample Programs for Colab
+
