@@ -14,3 +14,5 @@ The programs shown here are modified sample programs from Generative Deep Learni
 ## 実行方法
 実行される場合は、それぞれのファイルのColabへのリンク![colab](https://colab.research.google.com/assets/colab-badge.svg)をクリックし、GPU（T4もしくはA 100)を指定してから実行されてください。
 GPUはColab Notebookの[編集]→[ノートブックの設定]から指定できます。
+
+When executing, click on the Colab link in each file and specify the GPU (T4 or A 100) before executing. The GPU can be specified in the Colab Notebook under [Edit] → [Notebook Settings].
